@@ -3,7 +3,7 @@ anyio==4.6.2.post1
 azure-cognitiveservices-vision-computervision==0.9.1
 azure-cognitiveservices-vision-customvision==3.1.1
 azure-common==1.1.28
-azure-core==1.32.0
+azure-core==1.38.0
 azure-data-tables==12.6.0
 azure-mgmt-core==1.5.0
 azure-storage-blob==12.24.0
